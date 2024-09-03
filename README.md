@@ -1,1 +1,1 @@
-# AppToBetterWorkWithNotion
+Приложение для работы с Notion
